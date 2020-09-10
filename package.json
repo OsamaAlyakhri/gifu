@@ -1,6 +1,6 @@
 {
   "name": "gifu",
-  "version": "2.0.0",
+  "version": "4.0.0",
   "description": "All your anime gifs",
   "license": "MIT",
   "repository": "NiinaDev/gifu",
@@ -11,6 +11,5 @@
     "package",
     "gif",
     "anime"
-  ],
-  "dependencies": {}
+  ]
 }
