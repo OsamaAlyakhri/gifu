@@ -1,0 +1,16 @@
+{
+  "name": "gifu",
+  "version": "2.0.0",
+  "description": "All your anime gifs",
+  "license": "MIT",
+  "repository": "NiinaDev/gifu",
+  "main": "index.js",
+  "keywords": [
+    "gifu",
+    "npm",
+    "package",
+    "gif",
+    "anime"
+  ],
+  "dependencies": {}
+}
