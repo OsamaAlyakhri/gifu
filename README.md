@@ -20,7 +20,7 @@ $ npm install gifu
 ```js
 const { gifu } = require("gifu");
 
-gifu("bite")
-  .then(result => console.log(result))
+let result = gifu("bite")
+console.log(result)
 //=> "https://media1.tenor.com/images/1169d1ab96669e13062c1b23ce5b9b01/tenor.gif"
 ```
