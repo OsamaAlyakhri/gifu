@@ -7,7 +7,7 @@ All your anime gifs
 
 ## Contribute
 
-All the gifs are hand picked for quality assurance, feel free to add some of your favorites by creating a pull request. For any questions, contact me on Discord at Nina#3643
+All the gifs are hand picked for quality assurance, feel free to add some of your favorites by creating a pull request. For any questions, contact me on Discord at [Nina#3643](https://discord.com/users/568824243396149248)
 
 ## Install
 
