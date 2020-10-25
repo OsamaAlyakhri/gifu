@@ -148,6 +148,7 @@ module.exports = {
         "https://media1.tenor.com/images/b0f4b5f158e8a964adbabd048fb9e556/tenor.gif",
         "https://media1.tenor.com/images/ecf674c5e0ed2fdf0260ade4fad2146f/tenor.gif",
         "https://media1.tenor.com/images/9eff85aac8f21da39246ef40787864c8/tenor.gif",
+        "https://i.waifu.pics/zGi~DA0.gif",
         "https://media1.tenor.com/images/445c3de1f9a6a87694bcbb2739d35451/tenor.gif",
         "https://media1.tenor.com/images/cff668938903f9942991f54b031043b7/tenor.gif",
         "https://media1.tenor.com/images/04b0feb0e2e6861d5e57c1cb2cdb4dd9/tenor.gif",
