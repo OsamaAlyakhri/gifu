@@ -277,7 +277,26 @@ module.exports = {
         "https://media1.tenor.com/images/4ee86c5471b564c93a36cf1f99c5dbb8/tenor.gif"
     ],
     hug: [
-        
+        "https://c.tenor.com/9e1aE_xBLCsAAAAC/anime-hug.gif",
+        "https://c.tenor.com/2bWwi8DhDsAAAAAC/hugs-and-love.gif",
+        "https://c.tenor.com/UhcyGsGpLNIAAAAC/hug-anime.gif",
+        "https://c.tenor.com/SPs0Rpt7HAcAAAAC/chiya-urara.gif",
+        "https://c.tenor.com/jQ0FcfbsXqIAAAAC/hug-anime.gif",
+        "https://c.tenor.com/nHkiUCkS04gAAAAC/anime-hug-hearts.gif",
+        "https://c.tenor.com/xIuXbMtA38sAAAAd/toilet-bound-hanakokun.gif",
+        "https://c.tenor.com/mmQyXP3JvKwAAAAC/anime-cute.gif",
+        "https://c.tenor.com/2lr9uM5JmPQAAAAC/hug-anime-hug.gif",
+        "https://c.tenor.com/zvlN9ZJEaj4AAAAC/anime-hug.gif",
+        "https://c.tenor.com/ljXMDMzMaxcAAAAC/cute-anime.gif",
+        "https://c.tenor.com/epQeAT-abYgAAAAC/%E0%B8%81%E0%B8%AD%E0%B8%94.gif",
+        "https://c.tenor.com/cFhjNVecNGcAAAAC/anime-hug.gif",
+        "https://c.tenor.com/GJ6oX6r0mZsAAAAC/chuunibyou-anime.gif",
+        "https://c.tenor.com/qr-CxJEClOAAAAAd/anime-anime-hug.gif",
+        "https://c.tenor.com/keasv-Cnh4kAAAAd/hug-cuddle.gif",
+        "https://c.tenor.com/35RotStN1BkAAAAC/anime-hug-anime.gif",
+        "https://c.tenor.com/oDGYXy0mwYMAAAAC/loli-hug.gif",
+        "https://c.tenor.com/N2stzDlUrxAAAAAC/loli-hug.gif",
+        "https://c.tenor.com/3PlF8zNL0cEAAAAC/excited-hug.gif"
     ],
     kill: [
 
