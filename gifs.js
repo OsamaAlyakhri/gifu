@@ -305,7 +305,13 @@ module.exports = {
 
     ],
     kiss: [
-
+        "https://c.tenor.com/I8kWjuAtX-QAAAAC/anime-ano.gif",
+        "https://c.tenor.com/F02Ep3b2jJgAAAAC/cute-kawai.gif",
+        "https://c.tenor.com/e6cYiAPPCq4AAAAC/anime-kissing.gif",
+        "https://c.tenor.com/VTvkMN6P648AAAAC/anime-kiss.gif",
+        "https://c.tenor.com/3wE3JNW0fswAAAAC/anime-kiss-love.gif",
+        "https://c.tenor.com/bA4e62MGWKsAAAAC/anime-couple.gif",
+        "https://c.tenor.com/_ttVgUDKJL0AAAAC/anime-couple.gif"
     ],
     laugh: [
 
