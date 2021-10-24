@@ -259,7 +259,10 @@ module.exports = {
     hate: [
         "https://media1.tenor.com/images/68a9f7419763d193d54ea40a7f6b6349/tenor.gif",
         "https://media1.tenor.com/images/1295a1b6007b43971c0c7426ff3931b4/tenor.gif",
-        "https://media1.tenor.com/images/eee10601b7671ff0651c82ef5e13c0ea/tenor.gif"
+        "https://media1.tenor.com/images/eee10601b7671ff0651c82ef5e13c0ea/tenor.gif",
+        "https://c.tenor.com/yb2HmSFfmegAAAAC/chika-kaguya-sama-love-is-war.gif",
+        "https://c.tenor.com/dZ_PRb9sdDQAAAAC/hate.gif",
+        "https://c.tenor.com/U-VppAlRcYkAAAAC/hate.gif",
     ],
     highfive: [
         "https://media1.tenor.com/images/14226cfc51aeaf72be5ec5ac71b1155b/tenor.gif",
