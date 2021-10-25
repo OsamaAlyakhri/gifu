@@ -16,7 +16,7 @@ declare module 'gifu' {
         | 'happy'
         | 'hate'
         | 'highfive'
-        | 'hug';
+        | 'hug'
         | 'kiss';
     /**
      * This function will pick a random gif, specified in the {@link gifu} parameter
