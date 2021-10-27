@@ -5,6 +5,7 @@
   "license": "MIT",
   "repository": "NiinaDev/gifu",
   "main": "index.js",
+  "types": "./index.d.ts",
   "keywords": [
     "gifu",
     "npm",
