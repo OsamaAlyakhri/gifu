@@ -259,7 +259,10 @@ module.exports = {
     hate: [
         "https://media1.tenor.com/images/68a9f7419763d193d54ea40a7f6b6349/tenor.gif",
         "https://media1.tenor.com/images/1295a1b6007b43971c0c7426ff3931b4/tenor.gif",
-        "https://media1.tenor.com/images/eee10601b7671ff0651c82ef5e13c0ea/tenor.gif"
+        "https://media1.tenor.com/images/eee10601b7671ff0651c82ef5e13c0ea/tenor.gif",
+        "https://c.tenor.com/yb2HmSFfmegAAAAC/chika-kaguya-sama-love-is-war.gif",
+        "https://c.tenor.com/dZ_PRb9sdDQAAAAC/hate.gif",
+        "https://c.tenor.com/U-VppAlRcYkAAAAC/hate.gif",
     ],
     highfive: [
         "https://media1.tenor.com/images/14226cfc51aeaf72be5ec5ac71b1155b/tenor.gif",
@@ -277,13 +280,38 @@ module.exports = {
         "https://media1.tenor.com/images/4ee86c5471b564c93a36cf1f99c5dbb8/tenor.gif"
     ],
     hug: [
-        
+        "https://c.tenor.com/9e1aE_xBLCsAAAAC/anime-hug.gif",
+        "https://c.tenor.com/2bWwi8DhDsAAAAAC/hugs-and-love.gif",
+        "https://c.tenor.com/UhcyGsGpLNIAAAAC/hug-anime.gif",
+        "https://c.tenor.com/SPs0Rpt7HAcAAAAC/chiya-urara.gif",
+        "https://c.tenor.com/jQ0FcfbsXqIAAAAC/hug-anime.gif",
+        "https://c.tenor.com/nHkiUCkS04gAAAAC/anime-hug-hearts.gif",
+        "https://c.tenor.com/xIuXbMtA38sAAAAd/toilet-bound-hanakokun.gif",
+        "https://c.tenor.com/mmQyXP3JvKwAAAAC/anime-cute.gif",
+        "https://c.tenor.com/2lr9uM5JmPQAAAAC/hug-anime-hug.gif",
+        "https://c.tenor.com/zvlN9ZJEaj4AAAAC/anime-hug.gif",
+        "https://c.tenor.com/ljXMDMzMaxcAAAAC/cute-anime.gif",
+        "https://c.tenor.com/epQeAT-abYgAAAAC/%E0%B8%81%E0%B8%AD%E0%B8%94.gif",
+        "https://c.tenor.com/cFhjNVecNGcAAAAC/anime-hug.gif",
+        "https://c.tenor.com/GJ6oX6r0mZsAAAAC/chuunibyou-anime.gif",
+        "https://c.tenor.com/qr-CxJEClOAAAAAd/anime-anime-hug.gif",
+        "https://c.tenor.com/keasv-Cnh4kAAAAd/hug-cuddle.gif",
+        "https://c.tenor.com/35RotStN1BkAAAAC/anime-hug-anime.gif",
+        "https://c.tenor.com/oDGYXy0mwYMAAAAC/loli-hug.gif",
+        "https://c.tenor.com/N2stzDlUrxAAAAAC/loli-hug.gif",
+        "https://c.tenor.com/3PlF8zNL0cEAAAAC/excited-hug.gif"
     ],
     kill: [
 
     ],
     kiss: [
-
+        "https://c.tenor.com/I8kWjuAtX-QAAAAC/anime-ano.gif",
+        "https://c.tenor.com/F02Ep3b2jJgAAAAC/cute-kawai.gif",
+        "https://c.tenor.com/e6cYiAPPCq4AAAAC/anime-kissing.gif",
+        "https://c.tenor.com/VTvkMN6P648AAAAC/anime-kiss.gif",
+        "https://c.tenor.com/3wE3JNW0fswAAAAC/anime-kiss-love.gif",
+        "https://c.tenor.com/bA4e62MGWKsAAAAC/anime-couple.gif",
+        "https://c.tenor.com/_ttVgUDKJL0AAAAC/anime-couple.gif"
     ],
     laugh: [
 
