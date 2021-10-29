@@ -7,7 +7,7 @@ All your anime gifs
 
 ## Contribute
 
-All the gifs are hand picked for quality assurance, feel free to add some of your favorites by creating a pull request. For any questions, contact me on Discord at [Nina#3643](https://discord.com/users/568824243396149248)
+All the gifs are hand picked for quality assurance, feel free to add some of your favorites by creating a pull request. For any questions, contact me on Discord at [ahlw#3643](https://discord.com/users/568824243396149248)
 
 ## Install
 
@@ -20,7 +20,6 @@ $ npm install gifu
 ```js
 const { gifu } = require("gifu");
 
-let result = gifu("bite")
-console.log(result)
-//=> "https://media1.tenor.com/images/1169d1ab96669e13062c1b23ce5b9b01/tenor.gif"
+let result = gifu("bite");
+console.log(result); // "https://media1.tenor.com/images/1169d1ab96669e13062c1b23ce5b9b01/tenor.gif"
 ```
